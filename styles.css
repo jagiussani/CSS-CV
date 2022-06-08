@@ -1,0 +1,189 @@
+/************************* Tags Selector *************************/
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+  margin: 50px 0;
+  line-height: 2;
+  color: #66BFBF;
+}
+
+h2 {
+  margin-top: 2.5%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: 900;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 2;
+  padding: 25px;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted;
+  border-bottom: none;
+  border-spacing: 5px;
+  border-width: 5px;
+  color: grey;
+}
+
+/************************* Class Selector *************************/
+.top-container {
+  background-color: #a3d2ca;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skills {
+  padding: 10%;
+}
+
+.bottom-container {
+  margin: 25px 0 0 0;
+  background-color: #66BFBF;
+  padding: 50px 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.ID-Instagram {
+  position: relative;
+  height: 25%;
+  width: 25%;
+}
+
+.giphy0 {
+  background-color: #faf3dd;
+  border-radius: 50%;
+}
+
+.giphy1 {
+  background-color: #faf3dd;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.giphy2 {
+  background-color: #faf3dd;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 10%;
+  position: relative;
+  left: 15%;
+}
+
+.Profile-description {
+  width: 30%;
+  text-align: left;
+  margin: 60px auto 60px auto;
+}
+
+.BUTTON_HXF {
+  background: #1FB3B8;
+  background-image: -webkit-linear-gradient(top, #1FB3B8, #007579);
+  background-image: -moz-linear-gradient(top, #1FB3B8, #007579);
+  background-image: -ms-linear-gradient(top, #1FB3B8, #007579);
+  background-image: -o-linear-gradient(top, #1FB3B8, #007579);
+  background-image: linear-gradient(to bottom, #1FB3B8, #007579);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 20px;
+  border: solid #11999E 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_HXF:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.credits {
+  color: white;
+  font-size: 10px;
+  padding: 20px 0px;
+}
+
+.contact-message {
+  width: 40%
+  margin: 40px auto 60px;
+}
+
+/************************* ID Selector *************************/
+.webdisgner {
+  font-weight: normal;
+}
